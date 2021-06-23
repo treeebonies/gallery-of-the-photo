@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(#f3dff5 20%, #d1f0ef 80%);
+    align-content: center;
+}
+
+.img2 {
+        width: 410px;
+    height: 470px;
+    margin-bottom: 50px;
+}
+.men {
+    font-size:20px;
+}
+h2 {
+font-size:50px;
+    text-align:center;
+    text-decoration-line: underline;
+}
+.img1 {
+    width: 1700px;
+    height: 1800px;   
+    font-stretch: expanded;
+} 
+.item {
+    font-size:50px;
+    color:white;
+}
